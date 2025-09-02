@@ -1,1 +1,3 @@
-# HTML-CSS-Projects
+# HTML-CSS-
+
+Basic miniproject based on HTML & CSS
